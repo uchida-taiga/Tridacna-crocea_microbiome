@@ -1,5 +1,5 @@
 # Tcro-microbiome
-Scripts for Tridacna crocea microbiome analysis (Uchida et al., Environmental Microbiology, under review).
+Scripts for *Tridacna crocea* microbiome analysis (Uchida et al., Environmental Microbiology, under review).
 
 When the same analysis was performed for both the tissue-specific microbiome and the dark-induced bleaching experiments, the scripts for the former are provided as representative examples.
 
